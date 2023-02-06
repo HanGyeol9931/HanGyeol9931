@@ -1,4 +1,11 @@
 # HanGyeol9931
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanGyeol9931&show_icons=true&theme=github_dark)
+<p></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanGyeol9931&layout=compact&theme=github_dark)
+
+
+
 <h1 align="center">Hi 👋, I'm KimHanGyeol</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
