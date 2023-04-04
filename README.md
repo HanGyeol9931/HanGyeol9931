@@ -18,6 +18,10 @@
 <p><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>&nbsp;&nbsp;</p>
 
 <p><img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/></p>
+  
+  <div>
+    포트 폴리오 : http://hangyeol.site
+  </div>
 
 </div>  
 
