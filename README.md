@@ -19,9 +19,8 @@
 
 <p><img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/></p>
   
-  <div>
-    포트 폴리오 : http://hangyeol.site
-  </div>
+
+##    포트 폴리오 : http://hangyeol.site
 
 </div>  
 
