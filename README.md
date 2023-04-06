@@ -6,8 +6,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanGyeol9931&layout=compact&theme=github_dark)
 
 #
-<h3>👨‍💻 Me 👨‍💻</h3>
-<p>FrontEnd Developer</p>
+
+## <p>FrontEnd Developer</p>
 
 ### 포트 폴리오 : http://hangyeol.site
 
